@@ -2,4 +2,4 @@
 
 ## How it looks
 [Screenshot](https://vgy.me/MVSxgE.png)
-also visit [/danpu/](https://8ch.net/danpu/)
+and [/danpu/](https://8ch.net/danpu/)
