@@ -1,11 +1,11 @@
-/* This CSS is %100 hand written desu */
+/* Author: Junicchi 
+ * https://github.com/Kebablord
+ * Written for alt-board danpu, supports vichan
+ * ALL THE CODE HAS !important tag because you have to overwrite the original css code
+ */
 
 
-
-
-
-
-/* RULES FOR SPECIAL THREADDOS */
+/* SPECIAL RULES FOR SPECIAL THREADS */
 #thread_338 span.name{
   color: #4e4463 !important;
 }
