@@ -1,5 +1,4 @@
-2chan/Futaba's homepage based board css for 8chan, written for /danpu/
+Danpu theme, overwriting custom style sheet for 8chan boards. Used in [/danpu/](https://8ch.net/danpu/)
 
-## How it looks
-[Screenshot](https://vgy.me/WF4fek.png)
-and [/danpu/](https://8ch.net/danpu/)
+## Screenshot
+![Screenshot](https://vgy.me/WF4fek.png)
