@@ -39,7 +39,7 @@ img[src*="/static/spoiler.png"]{
 // Backgrounds {}
 /* Delete or change first image if you don't want an animu girl right bottom*/
 body {
-    background: url('https://media.8ch.net/file_store/3bd92a4569337a74cbefdf2d671acdf7872133f8a13f630d4e6c7a245970b8ed.png') no-repeat no-repeat fixed bottom right, url('https://media.8ch.net/file_store/9119462d5ea47ec5d3f37d5d72f96e129323c42415fc5df5d1626ff56ebbf489.png') repeat !important;
+    background: url('https://media.8kun.top/file_store/c60a5979af223f1c1507975071538663017b2f590c5d9db01e5e0630d4d6d36b.png') no-repeat no-repeat fixed bottom right, url('https://media.8ch.net/file_store/9119462d5ea47ec5d3f37d5d72f96e129323c42415fc5df5d1626ff56ebbf489.png') repeat !important;
     background-size: 20%, auto !important;;
 }
 
@@ -67,7 +67,7 @@ div.hr hr,
 img.banner,img.board_image {
   -moz-box-sizing: border-box!important;
   box-sizing: border-box!important;
-  background: url(https://media.8ch.net/file_store/a46f6d7e4c6e698fcd08e46d88c280bc9a8d848912a7f4d7b82e872d86688d94.png) no-repeat !important;
+  background: url(https://media.8kun.top/file_store/4177f49072718a908d7a6a16783491b6b75b05325f3ce9fa1f67a60db6bde188.png) no-repeat !important;
   width: 384px; /* Width of new image */
   height: 100px; /* Height of new image */
   border: 0px !important;
